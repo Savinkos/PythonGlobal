@@ -58,3 +58,4 @@ if __name__ == "__main__":
     for ingredient, details in shop_list.items():
         print(f"{ingredient}: {details}")
 
+
