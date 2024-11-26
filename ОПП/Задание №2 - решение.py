@@ -50,7 +50,6 @@ if __name__ == "__main__":
         for ingredient in ingredients:
             print(f"  {ingredient}")
         print()
-    
     dishes = ['Запеченный картофель', 'Омлет']
     person_count = 2
     shop_list = get_shop_list_by_dishes(dishes, person_count, cook_book)
