@@ -1,5 +1,0 @@
-f = open("file.txt")
-print(type(f))
-data = f.read()
-print(data, type(data))
-f.close()
